@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="12" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-12T20:12:20 IST" name="NxtGen AI Automation Suite" finished-at="2022-06-12T20:12:50 IST" duration-ms="30409">
+    <groups>
+    </groups>
+    <test started-at="2022-06-12T20:12:20 IST" name="NxtGen AI Suite" finished-at="2022-06-12T20:12:50 IST" duration-ms="30409">
+      <class name="com.nxtgenai.testcases.ScreenNavigation">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.nxtgenai.testcases.ScreenNavigation@cc62a3b]" started-at="2022-06-12T20:12:10 IST" name="setUp" finished-at="2022-06-12T20:12:20 IST" duration-ms="9031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatingPythonForDataScienceNavigation()[pri:1, instance:com.nxtgenai.testcases.ScreenNavigation@cc62a3b]" started-at="2022-06-12T20:12:20 IST" name="validatingPythonForDataScienceNavigation" finished-at="2022-06-12T20:12:22 IST" duration-ms="2430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingPythonForDataScienceNavigation -->
+        <test-method signature="validatingCourseCompletionCertificateNavigation()[pri:2, instance:com.nxtgenai.testcases.ScreenNavigation@cc62a3b]" started-at="2022-06-12T20:12:22 IST" name="validatingCourseCompletionCertificateNavigation" finished-at="2022-06-12T20:12:24 IST" duration-ms="1887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingCourseCompletionCertificateNavigation -->
+        <test-method signature="validatingAutomationTrainingNavigation()[pri:3, instance:com.nxtgenai.testcases.ScreenNavigation@cc62a3b]" started-at="2022-06-12T20:12:24 IST" name="validatingAutomationTrainingNavigation" finished-at="2022-06-12T20:12:26 IST" duration-ms="2144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingAutomationTrainingNavigation -->
+        <test-method signature="validatingRegistrationFormNavigation()[pri:4, instance:com.nxtgenai.testcases.ScreenNavigation@cc62a3b]" started-at="2022-06-12T20:12:26 IST" name="validatingRegistrationFormNavigation" finished-at="2022-06-12T20:12:28 IST" duration-ms="1791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingRegistrationFormNavigation -->
+        <test-method signature="validatingAlertPopUpNavigation()[pri:5, instance:com.nxtgenai.testcases.ScreenNavigation@cc62a3b]" started-at="2022-06-12T20:12:28 IST" name="validatingAlertPopUpNavigation" finished-at="2022-06-12T20:12:30 IST" duration-ms="1764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingAlertPopUpNavigation -->
+        <test-method signature="validatingMultipleWindowsNavigation()[pri:6, instance:com.nxtgenai.testcases.ScreenNavigation@cc62a3b]" started-at="2022-06-12T20:12:30 IST" name="validatingMultipleWindowsNavigation" finished-at="2022-06-12T20:12:31 IST" duration-ms="1669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingMultipleWindowsNavigation -->
+        <test-method signature="validatingWebTableNavigation()[pri:7, instance:com.nxtgenai.testcases.ScreenNavigation@cc62a3b]" started-at="2022-06-12T20:12:31 IST" name="validatingWebTableNavigation" finished-at="2022-06-12T20:12:33 IST" duration-ms="1644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingWebTableNavigation -->
+        <test-method signature="validatingTechTalkNavigation()[pri:8, instance:com.nxtgenai.testcases.ScreenNavigation@cc62a3b]" started-at="2022-06-12T20:12:33 IST" name="validatingTechTalkNavigation" finished-at="2022-06-12T20:12:35 IST" duration-ms="1675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingTechTalkNavigation -->
+        <test-method signature="validatingTestimonialsNavigation()[pri:9, instance:com.nxtgenai.testcases.ScreenNavigation@cc62a3b]" started-at="2022-06-12T20:12:35 IST" name="validatingTestimonialsNavigation" finished-at="2022-06-12T20:12:36 IST" duration-ms="1494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingTestimonialsNavigation -->
+        <test-method signature="validatingNumPyNavigation()[pri:10, instance:com.nxtgenai.testcases.ScreenNavigation@cc62a3b]" started-at="2022-06-12T20:12:36 IST" name="validatingNumPyNavigation" finished-at="2022-06-12T20:12:48 IST" duration-ms="11936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingNumPyNavigation -->
+        <test-method signature="validatingPandasNavigation()[pri:11, instance:com.nxtgenai.testcases.ScreenNavigation@cc62a3b]" started-at="2022-06-12T20:12:48 IST" name="validatingPandasNavigation" finished-at="2022-06-12T20:12:50 IST" duration-ms="1720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingPandasNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nxtgenai.testcases.ScreenNavigation@cc62a3b]" started-at="2022-06-12T20:12:51 IST" name="tearDown" finished-at="2022-06-12T20:12:52 IST" duration-ms="1047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nxtgenai.testcases.ScreenNavigation -->
+    </test> <!-- NxtGen AI Suite -->
+  </suite> <!-- NxtGen AI Automation Suite -->
+</testng-results>
